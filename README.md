@@ -17,6 +17,8 @@ Hands-on knowledge of Numpy and Matplotlib is essential before working on the co
 
 ->The line "%matplotlib inline" is a Jupyter Notebook-specific command that allows the generated plots or images to be displayed directly in the notebook interface.
 
+->The 'haarcascade_frontalface_alt2.xml' file is a trained Haar cascade classifier specifically designed for detecting frontal faces in images or video frames. It is part of the OpenCV library and can be used for face detection tasks.
+
 
 
 #### Installation
@@ -25,5 +27,7 @@ cv2:Install OpenCV using the command 'pip install opencv-python'.
 numpy: Install numpy using the command 'pip install numpy'.
 
 matplotlib:Install matplotlib using the command 'pip install matplotlib'.
+
+->Install haarcascade classifier by the source provided by me.
 
 
